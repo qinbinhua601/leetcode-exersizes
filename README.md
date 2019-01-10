@@ -7,3 +7,4 @@ leetcode exersizes
 - [x] binary-subarrays-with-sum @2019-01-08
 - [x] delete-node-in-a-bst @2019-01-09
 - [x] path-sum-iii @2019-01-09
+- [x] minimum-moves-to-equal-array-elements @2019-01-10
