@@ -4,23 +4,21 @@
  * @return {boolean}
  */
 var isDesc = function(A) {
-  for(var i = 0; i < A.length - 1; i++) {
-      if (A[i] < A[i+1]) 
-          return false;
+  for (var i = 0; i < A.length - 1; i++) {
+    if (A[i] < A[i + 1]) return false
   }
-  return true;
-};
+  return true
+}
 
 var isAsc = function(A) {
-  return isDesc(A.reverse());
-};
+  return isDesc(A.reverse())
+}
 
 var isMonotonic = function(A) {
-  if (A.length === 1) 
-      return true;
+  if (A.length === 1) return true
   if (A[0] <= A[A.length - 1]) {
-      return isAsc(A);
+    return isAsc(A)
   } else {
-      return isDesc(A);
+    return isDesc(A)
   }
-};
+}
