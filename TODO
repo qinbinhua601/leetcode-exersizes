@@ -6,4 +6,4 @@ AC List:
   ✔ delete-node-in-a-bst @done(19-01-09 00:08)
   ✔ path-sum-iii @done(19-01-09 16:22)
   ✔ minimum-moves-to-equal-array-elements @done(19-01-10 23:29)
-  ☐ https://leetcode.com/problems/optimal-division/
+  ✔ optimal-division @done(19-01-11 14:18)
