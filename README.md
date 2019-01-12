@@ -9,3 +9,4 @@ leetcode exersizes
 - [x] path-sum-iii @2019-01-09
 - [x] minimum-moves-to-equal-array-elements @2019-01-10
 - [x] optimal-division @2019-01-10
+- [ ] accounts-merge
